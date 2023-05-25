@@ -1,0 +1,6 @@
+Question: How have new cases and total cases developed over time in the UK?
+
+Ans: covid.py line 53
+  In the UK, there were essentially no new occurrences until around 2020-03-03.
+The overall number of instances increased and the rate of growth gradually accelerated after 2020-03-03.
+A generally rising trend was also seen in the daily number of new cases, which peaked around 2020-03-28.
